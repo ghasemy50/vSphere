@@ -1,5 +1,5 @@
 {
-  "name": "masoudniki/vcenter",
+  "name": "ghasemy50/vsphere",
   "type": "library",
   "description": "simple sdk for manage and working with vspahre automation api",
   "keywords": ["vsphare","vmware","automation api","esexi","manage vcenter"],
